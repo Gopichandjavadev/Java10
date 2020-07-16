@@ -1,0 +1,6 @@
+-XX:-UseContainerSupport
+-XX:ActiveProcessorCount=count
+
+-XX:InitialRAMPercentage
+-XX:MaxRAMPercentage
+-XX:MinRAMPercentage
